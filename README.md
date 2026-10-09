@@ -137,6 +137,20 @@ cp SKILL.md ~/.dsh/skills/buct-materials-guide-public/SKILL.md
 
 ---
 
+## 作者
+
+**aoaomm** — [github.com/aoaomm](https://github.com/aoaomm)
+
+北京化工大学材料科学与工程学院本科生。
+
+做这个仓库的起因很朴素：自己查选课、专业分流和奖学金规则时，发现官方文件又厚又散，
+而 AI 又爱把没写的东西说得像写了。于是把"先标出处、不编造、说没有之前先查索引"
+写成了这个 skill 的硬规则。
+
+发现答案有错、或想补充内容，欢迎开 issue。
+
+---
+
 ## 许可与免责
 
 - 编排与代码：MIT（见 `LICENSE`）。

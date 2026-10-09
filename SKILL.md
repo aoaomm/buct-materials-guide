@@ -9,6 +9,7 @@ description: >-
   ⚠️ 非北化本校事务（其他学校、学习方法、通用职业规划）请勿调用。
   ⚠️ 本版为条文蒸馏版，**不含原始文件全文与逐年课程表**。
 version: "2026.10-public"
+author: "aoaomm (https://github.com/aoaomm)"
 network: none
 read_source_pdf: false
 sources_are_distilled: true
