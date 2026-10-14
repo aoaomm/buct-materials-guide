@@ -1,5 +1,7 @@
 ---
 name: buct-materials-guide-public
+displayName: 北化学业顾问
+displayName_en: BUCT Academic Advisor
 description: >-
   北京化工大学（北化/BUCT）本科生学业制度问答（蒸馏版），面向北化任何学院的学生。
   覆盖选课退课、考试诚信、GPA、学籍、毕业学位、第二课堂、奖助学金、体测、学科竞赛、
